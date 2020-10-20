@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/idoki/CLionProjects/c/CSES_DP/P7.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+time.h
+-
+
